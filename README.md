@@ -1,1 +1,1 @@
-# cardiovascular-disease-predictor
+# Modelo de Predicción de Enfermedad Cardiovascular
