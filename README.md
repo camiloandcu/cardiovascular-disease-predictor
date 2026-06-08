@@ -1,5 +1,7 @@
 # Predicción del Riesgo de Enfermedad Cardiovascular usando Machine Learning y Datos Clínicos
 
+VIDEO ENTREGA FINAL: https://youtu.be/yrthzv6COqU
+
 ## Descripción del Proyecto
 
 Las enfermedades cardiovasculares constituyen una de las principales causas de morbilidad y mortalidad a nivel mundial, representando aproximadamente el 32% de todas las muertes globales [1]. Este proyecto aborda el desarrollo de un sistema de apoyo al tamizaje clínico basado en técnicas de Machine Learning para la detección temprana y estratificación del riesgo de enfermedad cardiovascular.
